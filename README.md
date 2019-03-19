@@ -12,7 +12,13 @@
 
 ![modals](https://user-images.githubusercontent.com/40785306/54644611-b9ec7080-4abf-11e9-8523-a70ab67aeb3a.JPG)
 
-## Cart
+
+# Description
+
+![description](https://user-images.githubusercontent.com/40785306/54645957-a04d2800-4ac3-11e9-8f2a-b8da0a42dca3.JPG)
+
+
+# Cart
 #### Supports adding, removing, clearing cart.
 
 ![additems](https://user-images.githubusercontent.com/40785306/54644721-0a63ce00-4ac0-11e9-95d3-58cba8d6db9c.JPG)
