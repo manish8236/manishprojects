@@ -17,3 +17,8 @@
 
 ![additems](https://user-images.githubusercontent.com/40785306/54644721-0a63ce00-4ac0-11e9-95d3-58cba8d6db9c.JPG)
 
+## Sandbox Paypal Payment
+
+![payment](https://user-images.githubusercontent.com/40785306/54644832-5b73c200-4ac0-11e9-96d9-b8addb187847.JPG)
+
+
